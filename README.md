@@ -29,6 +29,7 @@ For each cluster, print any 5 movies in the cluster. Your output should contain 
      123,Star wars, sci-fi 
      ......
  
+ 
 Q2. Classification
 
 Use the supervised learning (decision tree and Naive Bayes) algorithms to classify types of glass based on the dataset “glass.data”.
@@ -56,6 +57,16 @@ Attribute Information:
           * 7 headlamps
           
 Please use 60% of the data for training and 40% for testing and give the accuracy of the classifiers.
+
+
+Q3.
+Use Collaborative filtering find the accuracy of ALS model accuracy. 
+
+Use ratings.dat file. 
+
+It contains User id ::  movie id :: ratings :: timestamp.  
+
+Please use 60% of the data for training and 40% for testing and report the accuracy of the model.
 
 
 
