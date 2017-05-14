@@ -1,5 +1,5 @@
 # Apache-Spark-Machine-Learning
-Big data Management Analytics and Management - 3
+Big data Analytics and Management - 3
 
 Created by Xiangru Zhou
 
